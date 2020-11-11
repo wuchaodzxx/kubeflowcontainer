@@ -1,1 +1,1 @@
-FROM gcr.io/kubeflow-images-public/tf_operator:v0.2.1
+FROM gcr.io/kubeflow-images-public/tf_operator:v0.2.0
